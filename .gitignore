@@ -1,0 +1,3 @@
+venv/
+ferrox/target/
+ferrox/Cargo.lock
